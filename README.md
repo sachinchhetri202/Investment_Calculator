@@ -11,5 +11,3 @@ This tool is particularly useful for estimating the future value of cryptocurren
 Prompts for user input to make it interactive.
 Validates user input to handle incorrect entries.
 Provides the final amount rounded to two decimal places for clear financial representation.
-
-# Usage: Simply run the script in a Python environment. The program will prompt you for the required inputs and display the calculated final investment amount.
